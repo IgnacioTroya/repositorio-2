@@ -6,6 +6,6 @@ public class Animales {
         this.nombre = nombre;
     }
 public void comer (String animal){
-    System.out.println("La "+animal+ " esta comiendo pichula");
+    System.out.println("El "+animal+ " esta comiendo pichula");
 }    
 }
