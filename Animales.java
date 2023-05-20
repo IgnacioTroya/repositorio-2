@@ -1,4 +1,4 @@
-import javax.sound.midi.Synthesizer;
+
 
 public class Animales {
     int edad; 
